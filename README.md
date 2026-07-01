@@ -39,3 +39,35 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📂 Projects
+
+### 🧠 [jhalak-leetcode-solutions](https://github.com/jhalakchoudhary/jhalak-leetcode-solutions)
+A collection of **LeetCode questions** solved in C++ to ace coding interviews.  
+🧩 Language: C++ 🕒 Updated recently
+
+---
+
+### 🚆 [train-reservation-system](https://github.com/jhalakchoudhary/train-reservation-system)
+A **TypeScript-based train reservation system** demonstrating backend logic and data handling.  
+🧩 Language: TypeScript 🔒 Private Repository
+
+---
+
+### 🤖 [AI_Query_Generator](https://github.com/jhalakchoudhary/AI_Query_Generator)
+An **AI-powered query generator** built with JavaScript to automate question creation.  
+🧩 Language: JavaScript 🕒 Updated on May 14
+
+---
+
+### 🎨 [jhalak_portfolio](https://github.com/jhalakchoudhary/jhalak_portfolio)
+A **clean and responsive portfolio website** developed with Next.js and Tailwind CSS to showcase your frontend skills and experience.  
+🧩 Language: TypeScript 🕒 Updated on Apr 6
+
+---
+
+### 🛒 [amazon_clone](https://github.com/jhalakchoudhary/amazon_clone)
+A **C‑based Amazon clone** project focusing on data structures and logic implementation.  
+🧩 Language: C 🕒 Updated on Apr 2
