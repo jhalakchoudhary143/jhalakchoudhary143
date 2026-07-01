@@ -71,3 +71,7 @@ A **clean and responsive portfolio website** developed with Next.js and Tailwind
 ### 🛒 [amazon_clone](https://github.com/jhalakchoudhary/amazon_clone)
 A **C‑based Amazon clone** project focusing on data structures and logic implementation.  
 🧩 Language: C 🕒 Updated on Apr 2
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
